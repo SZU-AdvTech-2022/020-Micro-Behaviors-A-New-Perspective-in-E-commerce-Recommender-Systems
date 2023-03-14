@@ -1,0 +1,7 @@
+@inproceedings{REPO-020,
+    author = "Zhou, Meizi and Ding, Zhuoye and Tang, Jiliang and Yin, Dawei",
+    booktitle = "Proceedings of the eleventh ACM international conference on web search and data mining",
+    pages = "727--735",
+    title = "{Micro Behaviors: A New Perspective in E-commerce Recommender Systems}",
+    year = "2018"
+}
